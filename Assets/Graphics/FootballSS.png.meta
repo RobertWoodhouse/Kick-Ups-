@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: c0d05c642d0b74dbca05bd27f5994a3f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FootballSS_0
+    21300002: FootballSS_1
+    21300004: FootballSS_2
+    21300006: FootballSS_3
+    21300008: FootballSS_4
+    21300010: FootballSS_5
+    21300012: FootballSS_6
+    21300014: FootballSS_7
+    21300016: FootballSS_8
+    21300018: FootballSS_9
+    21300020: FootballSS_10
+    21300022: FootballSS_11
+    21300024: FootballSS_12
+    21300026: FootballSS_13
+    21300028: FootballSS_14
+    21300030: FootballSS_15
+    21300032: FootballSS_16
+    21300034: FootballSS_17
+    21300036: FootballSS_18
+    21300038: FootballSS_19
+    21300040: FootballSS_20
+    21300042: FootballSS_21
+    21300044: FootballSS_22
+    21300046: FootballSS_23
+    21300048: FootballSS_24
+    21300050: FootballSS_25
+    21300052: FootballSS_26
+    21300054: FootballSS_27
+    21300056: FootballSS_28
+    21300058: FootballSS_29
+    21300060: FootballSS_30
+    21300062: FootballSS_31
+    21300064: FootballSS_32
+    21300066: FootballSS_33
+    21300068: FootballSS_34
+    21300070: FootballSS_35
+    21300072: FootballSS_36
+    21300074: FootballSS_37
+    21300076: FootballSS_38
+    21300078: FootballSS_39
+    21300080: FootballSS_40
+    21300082: FootballSS_41
+    21300084: FootballSS_42
+    21300086: FootballSS_43
+    21300088: FootballSS_44
+    21300090: FootballSS_45
+    21300092: FootballSS_46
+    21300094: FootballSS_47
+    21300096: FootballSS_48
+    21300098: FootballSS_49
+    21300100: FootballSS_50
+    21300102: FootballSS_51
+    21300104: FootballSS_52
+    21300106: FootballSS_53
+    21300108: FootballSS_54
+    21300110: FootballSS_55
+    21300112: FootballSS_56
+    21300114: FootballSS_57
+    21300116: FootballSS_58
+    21300118: FootballSS_59
+    21300120: FootballSS_60
+    21300122: FootballSS_61
+    21300124: FootballSS_62
+    21300126: FootballSS_63
+    21300128: FootballSS_64
+    21300130: FootballSS_65
+    21300132: FootballSS_66
+    21300134: FootballSS_67
+    21300136: FootballSS_68
+    21300138: FootballSS_69
+    21300140: FootballSS_70
+    21300142: FootballSS_71
+    21300144: FootballSS_72
+    21300146: FootballSS_73
+    21300148: FootballSS_74
+    21300150: FootballSS_75
+    21300152: FootballSS_76
+    21300154: FootballSS_77
+    21300156: FootballSS_78
+    21300158: FootballSS_79
+    21300160: FootballSS_80
+    21300162: FootballSS_81
+    21300164: FootballSS_82
+    21300166: FootballSS_83
+    21300168: FootballSS_84
+    21300170: FootballSS_85
+    21300172: FootballSS_86
+    21300174: FootballSS_87
+    21300176: FootballSS_88
+    21300178: FootballSS_89
+    21300180: FootballSS_90
+    21300182: FootballSS_91
+    21300184: FootballSS_92
+    21300186: FootballSS_93
+    21300188: FootballSS_94
+    21300190: FootballSS_95
+    21300192: FootballSS_96
+    21300194: FootballSS_97
+    21300196: FootballSS_98
+    21300198: FootballSS_99
+    21300200: FootballSS_100
+    21300202: FootballSS_101
+    21300204: FootballSS_102
+    21300206: FootballSS_103
+    21300208: FootballSS_104
+    21300210: FootballSS_105
+    21300212: FootballSS_106
+    21300214: FootballSS_107
+    21300216: FootballSS_108
+    21300218: FootballSS_109
+    21300220: FootballSS_110
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FootballSS_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 424
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 424
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 424
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 424
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 424
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 424
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 424
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 424
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 424
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 424
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 382
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 382
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 382
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 382
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 382
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 382
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 382
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 382
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 382
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 340
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 340
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 340
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 340
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 340
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 340
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 340
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: .5, y: .699999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 340
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 340
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 340
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: .5, y: .699999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 298
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 298
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 298
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 298
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 298
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 298
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 298
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: .5, y: .699999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_40
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 298
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 298
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 298
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: .5, y: .699999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 260
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 221
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 191
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 200
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 191
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_52
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 191
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 189
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 206
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 205
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 205
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 216
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 209
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 149
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 119
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 119
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_78
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 77
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_83
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_85
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_89
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_91
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_92
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_94
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_96
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_97
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_98
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_99
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_100
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 21
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_102
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_103
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_104
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_105
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_106
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_109
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootballSS_110
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
